@@ -1,0 +1,8 @@
+.red {
+    width: 350px;
+    height: 240px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

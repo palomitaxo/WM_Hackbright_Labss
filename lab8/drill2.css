@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+#black {
+    background-color: black;
+}
+
+#red {
+    background-color: red;
+}
+
+#gold {
+    background-color: gold;
+}
+
+.bar {
+    width: 500px;
+    height: 100px;
+}
+  
